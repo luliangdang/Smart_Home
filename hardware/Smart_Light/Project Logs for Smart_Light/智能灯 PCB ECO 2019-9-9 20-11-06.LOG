@@ -1,0 +1,40 @@
+Added Component: Designator=U1(LQFP100 14x14)
+Added Pin To Net: NetName=KEY1 Pin=U1-1
+Added Pin To Net: NetName=KEY2 Pin=U1-2
+Added Pin To Net: NetName=KEY3 Pin=U1-3
+Added Pin To Net: NetName=VBAT Pin=U1-6
+Added Pin To Net: NetName=OSC32_IN Pin=U1-8
+Added Pin To Net: NetName=OSC32_OUT Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=VCC3.3 Pin=U1-11
+Added Pin To Net: NetName=OSC_IN Pin=U1-12
+Added Pin To Net: NetName=OSC_OUT Pin=U1-13
+Added Pin To Net: NetName=NRST Pin=U1-14
+Added Pin To Net: NetName=VCC3.3 Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=VCC3.3 Pin=U1-22
+Added Pin To Net: NetName=DS1 Pin=U1-23
+Added Pin To Net: NetName=DS2 Pin=U1-24
+Added Pin To Net: NetName=DS3 Pin=U1-25
+Added Pin To Net: NetName=DS4 Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=VCC3.3 Pin=U1-28
+Added Pin To Net: NetName=LED2 Pin=U1-45
+Added Pin To Net: NetName=LED1 Pin=U1-46
+Added Pin To Net: NetName=U3_TX Pin=U1-47
+Added Pin To Net: NetName=U3_RX Pin=U1-48
+Added Pin To Net: NetName=NetC10_2 Pin=U1-49
+Added Pin To Net: NetName=VCC3.3 Pin=U1-50
+Added Pin To Net: NetName=U1_TX Pin=U1-68
+Added Pin To Net: NetName=U1_RX Pin=U1-69
+Added Pin To Net: NetName=SWDIO Pin=U1-72
+Added Pin To Net: NetName=NetC11_2 Pin=U1-73
+Added Pin To Net: NetName=GND Pin=U1-74
+Added Pin To Net: NetName=VCC3.3 Pin=U1-75
+Added Pin To Net: NetName=SWCLK Pin=U1-76
+Added Pin To Net: NetName=NetR5_1 Pin=U1-94
+Added Pin To Net: NetName=GND Pin=U1-99
+Added Pin To Net: NetName=VCC3.3 Pin=U1-100
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component C10 225
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component C11 225
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component U1 STM32F407VGT6

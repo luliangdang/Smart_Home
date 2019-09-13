@@ -10,6 +10,7 @@ del *.drc /s
 del *.LOG /s
 del *.htm /s  
 del *.OutJob /s 
+del __Previews/
 
 for /r /d %%b in (History) do rd "%%b" /s /q 
 ::删除当前目录下的所有History文件夹
